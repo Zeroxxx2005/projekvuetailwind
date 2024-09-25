@@ -49,7 +49,7 @@
         </div>
 
         <div class="md:w-1/2 mt-10 md:mt-0 mx-20 flex flex-col justify-content-center items-center">
-          <img src="./assets/css/gambar/Beril (1).JPG" alt="Razan" class="rounded-md shadow-md w-80" />
+          <img src="./assets/css/gambar/Beril_1.jpg" alt="Razan" class="rounded-md shadow-md w-80" />
         </div>
       </div>
     </section>
